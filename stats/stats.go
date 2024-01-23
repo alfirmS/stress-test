@@ -3,7 +3,7 @@ package stats
 
 import (
 	"fmt"
-	"log"
+//	"log"
 	"sync"
 	"time"
 )
