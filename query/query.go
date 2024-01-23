@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/yourusername/yourproject/stats"
+	"github.com/alfirmS/stress-test/stats"
 	_ "github.com/go-sql-driver/mysql"
 )
 
