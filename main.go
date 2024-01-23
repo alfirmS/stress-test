@@ -7,8 +7,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/yourusername/yourproject/query"
-	"github.com/yourusername/yourproject/stats"
+	"github.com/alfirmS/stress-test/query"
+	"github.com/alfirmS/stress-test/stats"
 )
 
 func main() {
